@@ -20,7 +20,7 @@
   * [International Student Fee](https://iss.wisc.edu/international-student-fee-increase/) - $100
   * Registrar Office Document Fee - $65
 
-## 退还联邦税
+## 联邦税退还流程
 * 进入[GLACIER](https://www.online-tax.net/)系统中`GLACIER Tax Prep`模块，填写问卷即可。
 * 过程中需要输入W-2 Form和1042-S Form的内容。
 * 列举问卷中如下值得注意的问题:
@@ -51,7 +51,7 @@
 * 一个更好的消息是,我们仍可以从taxable wage中扣除一部分钱(x11), 而最终剩下的余额(x14)才是我们的税款来源。因此我们实际缴纳的税款是x15。而x22 = x21 - x15，就是联邦政府多收我们的税款，也就是我们本次申请退还的联邦税数额。对于NRA，x11一般为个人收入中预留作为州税的部分，这部分不用再视为联邦税的收入来源。
 * 带入你自己报表中的数据算一算，如果你的个人收入情况比较简单，数据是能够对上的。
 
-## 报州税
+## 州税退还流程
 与联邦税需要自行寄送税表不同，州税可以网上提交税表:
 * 进入[Wisconsin e-file](https://www.revenue.wi.gov/Pages/WI-efile/home.aspx), 下载`Individuals-choose a form:`中的Form 1NPR，用Adobe Reader 9打开进行填写和提交。
 * Form 1NPR名目繁多，感兴趣的可以对照[表格说明手册](https://www.google.com/url?q=https://www.revenue.wi.gov/TaxForms2017through2019/2018-1NPR-inst.pdf)细致了解。这里提及几处重要项目的填写:
