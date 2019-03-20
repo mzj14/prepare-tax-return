@@ -25,9 +25,13 @@
 * 过程中需要输入W-2 Form和1042-S Form的内容。
 * 列举问卷中如下值得注意的问题:
   * Country of Tax Residence为中国
-  * "Would you like to claim exemption from tax under income tax treaty" 填 "Yes"
-  * "Would you like to claim exemption from tax under non-service scholarship tax treaty" 填 "Yes"
-  * "Are you subject to taxation in China for any of the amounts you claim a tax treaty exemption" 填 "No"
+
+  * ![Question with Treaty](graphs/federal-tax-gtp-1.jpg)
+    回答"Yes"表明中美之间的Treaty适用于本人。
+
+  * ![Taxation in other country](graphs/federal-tax-gtp-2.jpg)
+    回答"No"表明被中美Treaty豁免征税的收入不会被中国征税。
+
   * "Name of Designated School Official" 写 Department Chair。[请参考ISS](https://iss.wisc.edu/employment/taxes/resources-for-filing-taxes/)。
 * 问卷中的内容最终会产生一个tax document, 包括如下Form:
   * 1040NR-EZ (an easy version of 1040 Form for Non-redisent): 为单身低收入NRA(Non-redisent Alien)(e.g. UW-Madison学生)报税时所填的表格。
@@ -78,6 +82,9 @@
 * 1042-S Form里的nontaxable wage没有到5000，但W-2 Form中的taxable wage不为0。怎么回事？
 
   <span style="color:red">To be answered!</span>
+
+## Helpful Links
+* https://www.revenue.wi.gov/Pages/FAQS/pcs-vita.aspx
 
 ## Hint
 
