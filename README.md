@@ -27,9 +27,11 @@
   * Country of Tax Residence为中国
 
   * ![Question with Treaty](graphs/federal-tax-gtp-1.jpg)
+
     回答"Yes"表明中美之间的Treaty适用于本人。
 
   * ![Taxation in other country](graphs/federal-tax-gtp-2.jpg)
+
     回答"No"表明被中美Treaty豁免征税的收入不会被中国征税。
 
   * "Name of Designated School Official" 写 Department Chair。[请参考ISS](https://iss.wisc.edu/employment/taxes/resources-for-filing-taxes/)。
@@ -42,6 +44,7 @@
 ## 了解Form 1040NR-EZ
 这部分内容跟具体报税操作无关，但我们不妨对联邦税的机制有一个初步的认识：
 ![Part of 1040NR-EZ](graphs/federal-tax.png)
+
 我们记xi为标号为i的行所记录的数值。
 * 在我们准备tax return之前，联邦已经从我们的个人收入中拿走了一部分(x21)作为我们上缴的税收。x21通常情况下为x18a(从taxable wage处拿走的税收) + x18b(从nontaxable income处拿走的税收)。
 * 但实际上根据中美的treaty，我们的scholarship和前$5000的income因为豁免的关系变成了nontaxable的。也就是我们这里的x6。我们要缴纳的税款仅来源于taxable wage也就是x3。
@@ -63,14 +66,17 @@
     Wisconsin州允许NRA利用个人缴纳的学费抵消部分纳入税收范围的收入(联邦税不允许NRA这样做)，从而减少实际需要缴纳的州税税额。为了使用这项福利，我们要在表格开始处启动Schedule M，并且在上图所示处点go按钮。
 
   * ![Tuition Deduction for Tax 2](graphs/state-tuition-deduction-2.png)
-   之后点击Worksheet按钮，并在第一个空格处填入你本年度缴纳的学费，正常情况下与1098-T表格中显示的数额一致。
+
+    之后点击Worksheet按钮，并在第一个空格处填入你本年度缴纳的学费，正常情况下与1098-T表格中显示的数额一致。
 
   * ![Tax Exemption](graphs/state-exemption.png)
+
     Wisconsin州还可以进一步根据你是否单身，是否成年等情况进一步减小纳入税收范围的收入。F-1留学生通常此处填写1。具体请查阅说明手册。
 
 ## 了解Form 1NPR
   * ![Tax Estimated and Real](graphs/state-tax-estimate-real.png)
     ![Tax Refund](graphs/state-tax-refund.png)
+
     沿用之前的标识方法。x63是在逐步缩小纳入税收范围的收入之后，我们实际需要缴纳的税款。x64是在我们准备tax return之前，州税务局从我们的收入中拿走的税款。x76 = x64 - x63 就是州政府多收我们的税款，也就是我们本次申请退还的州税数额。
 
 ## Q&A
