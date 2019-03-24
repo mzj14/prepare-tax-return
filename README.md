@@ -81,18 +81,23 @@
 
 ## Q&A
 * 非美国居民的银行开卡Bonus和利息不用交税。
-* 1098-T Form中的学费数额跟Student Center里显示的交易数额不一致。怎么回事？
+* 1098-T Form中的学费数额比Student Center里显示的交易数额少。怎么处理？
 
-  <span style="color:red">To be answered!</span>
+  以1098-T Form中的学费数额作为可以用于抵消taxable income的数额。
 
 * 1042-S Form里的nontaxable wage没有到5000，但W-2 Form中的taxable wage不为0。怎么回事？
 
-  <span style="color:red">To be answered!</span>
+  中美treaty表示留学生每年的wages有最高$5000的豁免纳税额。1042-S Form里的nontaxable wage没有到$5000，表明W-2 Form中的taxable wage还有一份部分可以豁免(即尚未完全享受$5000的豁免)。这时在填写Form 1NPR中的Line 1B的时候不应以W-2为准，而应以Form 1040NR-EZ中的Line 3为准。这种填法可以从表格说明手册中找到依据:
+
+  ![Q&A 1](graphs/q-and-a-1.png)
+
+  此时，Wisconsin e-filing 会警告Line 1B的数额跟W-2 Form不一致。为此请附上必要的解释。(这个就看个人发挥了，我附上了GLACIER中的Tax Summary Report, 8233 Form, Official Attachment to 8233 Form以及自己写的一段解释)
 
 ## Helpful Links
 * https://www.revenue.wi.gov/Pages/FAQS/pcs-vita.aspx
 
 ## Hint
+* 笔者第一年准备tax refund，尚不知道是否能够成功，因此不承担任何因本文内容不准确或不正确而引发的税务问题和法律后果。
 
 * 移步至[报税指南](报税指南.pdf)了解与税收相关的基本概念和表格介绍(鸣谢[UW-Madison中国学生学者联合会](https://uwcssa.net/))。
 
